@@ -43,7 +43,8 @@ pip install numpy pandas seaborn jupyter
 ```
 
 ## How to run
-```bash
+```
+bash
 jupyter notebook student_performance_using_scratch_ml_algorithm.ipynb
 ```
 
