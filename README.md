@@ -1,4 +1,4 @@
-# Student Performance Prediction (Scratch ML)
+# Student Performance Prediction (Scratch Linear Regression)
 
 This project explores a student performance dataset and implements a multivariate
 linear regression model from scratch (using NumPy) to predict the
